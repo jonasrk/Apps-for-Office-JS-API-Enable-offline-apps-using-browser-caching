@@ -6,7 +6,11 @@ Pages/CodeSample_OfflineCalculatorApp.html
 Content/App.css
 Content/Office.css
 Scripts/Office/1.0/MicrosoftAjax.js
-Scripts/Office/1.0/office.js
+
+https://localhost:8443/office.js
+https://localhost:8443/en-us/office_strings.js
+https://localhost:8443/excel-web-16.00.js
+
 Scripts/CodeSample_OfflineCalculatorApp.js
 Scripts/toast.js
 Scripts/jquery-1.7.1.js
